@@ -1,0 +1,8 @@
+h1 {
+  background-color: red;
+  width: 50%;
+}
+
+canvas {
+  border: 2px solid black;
+}
