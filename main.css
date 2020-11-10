@@ -1,6 +1,16 @@
-h1 {
-  background-color: red;
-  width: 50%;
+#quote-box {
+  background-color: lightblue;
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+#quote-field {
+  text-align: center;
+}
+
+#quote-button {
+  margin: 10px;
+  transform: translateX(150%);
 }
 
 canvas {

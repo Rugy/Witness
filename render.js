@@ -21,7 +21,7 @@ export function configRender() {
     } else {
       $("#panel").css("cursor", "default");
     }
-  })
+  });
 }
 
 export function drawPanel(panel) {
