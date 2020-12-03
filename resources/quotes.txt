@@ -1,2 +1,5 @@
 Immer den Kurzschluss noch als Ass im Ärmel. Immer noch den Kurzschluss mitdenken.
 Die einzige Bedingung, die Sterne haben ist: ich will mit einem anderen Objekt, dass die selbe Farbe hat wie ich, in einem Raum sein und nicht mit mehr und nicht mit weniger. Ich will nicht alleine sein, ich will nicht zu dritt sein. Ich will genau zwei. Wer sonst noch im Raum ist, ist mir egal.
+Die Position der Symbole dürfen nur dann ignoriert werden, wenn die Summe 0 ist.
+Wenn die Summe 0 ist, dürfen keine Symbole in der Form liegen. 
+Nichts ergibt Sinn. Sämtliche anderen Regeln werden ignoriert.

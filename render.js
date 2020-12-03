@@ -37,6 +37,7 @@ export function drawPanel(panel) {
     });
   });
 
+/*
   panel.xLines.forEach((row, i) => {
     row.forEach((item, j) => {
       drawLine(i * offsetField, j * offsetField + offsetWidth, lineWidth, lineLength, "blue");
@@ -48,6 +49,19 @@ export function drawPanel(panel) {
       drawLine(i * offsetField + offsetWidth, j * offsetField, lineLength, lineWidth, "blue");
     });
   });
+  */
+
+  panel.lines.forEach((row, i) => {
+    row.forEach((item, j) => {
+    if (i > 0) {
+      return;
+    }
+      drawLine(i * offsetField + offsetWidth, j * offsetField, lineLength, lineWidth, "yellow");
+      console.log(i, j);
+    });
+
+  });
+
 
   console.log(lines);
 }

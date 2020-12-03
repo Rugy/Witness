@@ -1,6 +1,7 @@
 import { sayHello, createPanel, panel } from "./panel.js";
 import { canvas, drawPanel, configRender } from "./render.js"
 import { initQuotes } from "./quote.js"
+import { initFunfacts } from "./funfact.js"
 
 $(document).ready(function() {
   configRender();
@@ -11,6 +12,7 @@ $(document).ready(function() {
   createPanel(height, width);
   drawPanel(panel);
   initQuotes();
+  initFunfacts();
 
   console.log(panel);
 });

@@ -10,6 +10,11 @@
 
 #quote-button {
   margin: 10px;
+  transform: translateX(50%);
+}
+
+#funfact-button {
+  margin: 10px;
   transform: translateX(150%);
 }
 
@@ -19,4 +24,8 @@ canvas {
 
 body {
   user-select: none;
+}
+
+video {
+  width: 500px;
 }
