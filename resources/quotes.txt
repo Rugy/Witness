@@ -3,3 +3,4 @@ Die einzige Bedingung, die Sterne haben ist: ich will mit einem anderen Objekt, 
 Die Position der Symbole dürfen nur dann ignoriert werden, wenn die Summe 0 ist.
 Wenn die Summe 0 ist, dürfen keine Symbole in der Form liegen. 
 Nichts ergibt Sinn. Sämtliche anderen Regeln werden ignoriert.
+Nicht alles was ne Linie ist, ist auch ne Linie die was startet.
